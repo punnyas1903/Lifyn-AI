@@ -1,0 +1,1 @@
+web: gunicorn LIFYN-AI.wsgi:application
